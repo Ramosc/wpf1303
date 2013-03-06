@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="529d141f-3069-420e-bcee-d5198e913951" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 1/Day 2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 1/js/main.js" afterPath="$PROJECT_DIR$/Day 1/js/main.js" />
     </list>
     <ignored path="WPF 1303.iws" />
@@ -25,7 +27,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 1/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="32" selection-start="524" selection-end="524" vertical-scroll-proportion="0.6995516">
+            <state line="26" column="51" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.7820122">
               <folding />
             </state>
           </provider>
@@ -34,7 +36,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="1308" selection-end="1308" vertical-scroll-proportion="-11.774194">
+            <state line="32" column="0" selection-start="1347" selection-end="1347" vertical-scroll-proportion="-26.838709">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day 2.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 1/Day 2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="30" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -54,6 +65,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Day 1/index.html" />
+        <option value="$PROJECT_DIR$/Day 1/Day 2.php" />
         <option value="$PROJECT_DIR$/Day 1/js/main.js" />
       </list>
     </option>
@@ -302,13 +314,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="1308" selection-end="1308" vertical-scroll-proportion="-11.774194">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1107" column="7" selection-start="16284" selection-end="16284" vertical-scroll-proportion="2.0044844">
@@ -316,9 +321,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1347" selection-end="1347" vertical-scroll-proportion="-26.838709">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 1/Day 2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 1/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="32" selection-start="524" selection-end="524" vertical-scroll-proportion="0.6995516">
+        <state line="26" column="51" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.7820122">
           <folding />
         </state>
       </provider>

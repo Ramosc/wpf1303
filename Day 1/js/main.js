@@ -14,12 +14,17 @@
 var gas = 60;
 var monthly = 5;
 
-console.log("there is a guy who hates to drive")
-console.log("he hates to drive because gas is expensive; that guy is me")
-console.log("i need to pay " + "$" + gas * monthly + " every month")
-console.log("this sucks somebody do something please :(")
+console.log("there is a guy who hates to drive");
+console.log("he hates to drive because gas is expensive; that guy is me");
+console.log("i need to pay " + "$" + (gas * monthly) + " every month");
+console.log("this sucks somebody do something please :(");
+console.log('Auturo said to Carlos: \"You need to get a smaller car and don\'t drive your truck anymore\"');
 
-
+//value : simple things like strings and numbers
+//expression: combinations of values
+//evaluate: substitute in all of the values, do the operations
+//statement: one logical series of operations that completes a task
+//assignment : giving an expression a variable name
 
 
 
