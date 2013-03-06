@@ -13,6 +13,7 @@
 
 var gas = 60;
 var monthly = 6;
+var keeps = false;
 
 console.log("there is a guy who hates to drive");
 console.log("he hates to drive because gas is expensive; that guy is me");
@@ -20,11 +21,16 @@ console.log("i need to pay " + "$" + (gas * monthly) + " every month");
 console.log("this sucks somebody do something please :(");
 console.log('Auturo said to Carlos: \"You need to get a smaller car and don\'t drive your truck anymore\"');
 
-if (monthly>5) {
+if (monthly>5) { //conditional
     console.log("Carlos say\'s \"I need to get a new car asap!\"");
+    if (keeps) { //nested conditional
+        console.log("but i don't have the money to buy a new car so i'll keep it");
+    }else {
+        console.log("I'm going right now to the dealership");
+    }
 }
 else{
-    console.log("Carlos say\'s he is satified with his truck!")
+    console.log("Carlos say\'s he is fine with his truck!")
 
 }
 
