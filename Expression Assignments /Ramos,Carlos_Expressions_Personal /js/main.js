@@ -3,7 +3,7 @@
 //var work   = prompt("How many hours do you spend at work each week?");
 
 console.log("Time management is very important at a school like Full Sail. The workload at Full Sail can be very difficult at times.");
-
+console.log("Every month your schedule will change and every week even day your schedule can change due to last minute unforeseen circumstances.");
 
 
 
