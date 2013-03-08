@@ -1,8 +1,8 @@
 var class1 = parseInt(prompt("How many hours do you spend in WPF 1303 a week?"));//amount of hours for WPF
 var class2 = parseInt(prompt("How many hours do you spend in College Math a week?"));//amount of hours for Math
 var work   = parseInt(prompt("How many hours do you spend at work each week?"));//amount of hours Worked
-var total  = class1 + class2 + work;
-const weekly = 40;
+var total  = class1 + class2 + work;//sum of total hours entered
+const weekly = 40;//constant of 40 hour work week
 
 console.log("Time management is very important at a school like Full Sail. The workload at Full Sail can be very difficult at times.");
 console.log("Every month your schedule will change and every week even day your schedule can change due to last minute unforeseen circumstances.");
