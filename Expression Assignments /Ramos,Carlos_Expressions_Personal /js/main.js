@@ -11,7 +11,7 @@ console.log("I have two classes a month with work and WPF is " + class1 + " hour
 console.log("I also work " + work + " hours a week and that interferes with how much time I have to finish homework assignments." );
 console.log("If you add all of that time up it equals to " + total + " and you can see why it is important to manage your time wisely.");
 
-if (total>=55) {
+if (total>=55) { //total entered by user >=55 hours 
     console.log( total + " Hours is a lot of time to be taken out of the week and if continues this way there is a possibility you will burn yourself out.");
 }
 else{
