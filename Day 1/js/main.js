@@ -13,7 +13,7 @@
 
 var gas = 60;
 var monthly = 6;
-var keeps = false;
+var keeps = true;
 
 console.log("there is a guy who hates to drive");
 console.log("he hates to drive because gas is expensive; that guy is me");
