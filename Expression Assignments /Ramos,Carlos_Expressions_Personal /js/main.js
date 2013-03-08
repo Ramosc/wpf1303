@@ -18,7 +18,7 @@ else{ //total entered by user less than 55 hours
     console.log( total + " Hours is a comfortable amount of hour for the week so if given the opportunity you should study ahead and be prepared for upcoming class work.");//conditional answer for else
 }
 
-console.log("The optimal amount of hours for work is about " + weekly + " so you do not burn yourself out and you get your work done with some personal time to spare.");
+console.log("The optimal amount of hours for work is about " + weekly + " so you do not burn yourself out and you get your work done with some personal time to spare.");//closing statement of 40 hours a week
 
 
 
