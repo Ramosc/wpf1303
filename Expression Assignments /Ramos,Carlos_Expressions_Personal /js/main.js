@@ -1,8 +1,8 @@
-var class1 = parseInt(prompt("How many hours do you spend in WPF 1303 a week?"));
-var class2 = parseInt(prompt("How many hours do you spend in College Math a week?"));
-var work   = parseInt(prompt("How many hours do you spend at work each week?"));
+var class1 = parseInt(prompt("How many hours do you spend in WPF 1303 a week?"));//amount of hours for WPF
+var class2 = parseInt(prompt("How many hours do you spend in College Math a week?"));//amount of hours for Math
+var work   = parseInt(prompt("How many hours do you spend at work each week?"));//amount of hours Worked
 var total  = class1 + class2 + work;
-const weekly = 40
+const weekly = 40;
 
 console.log("Time management is very important at a school like Full Sail. The workload at Full Sail can be very difficult at times.");
 console.log("Every month your schedule will change and every week even day your schedule can change due to last minute unforeseen circumstances.");
@@ -19,6 +19,7 @@ else{
 }
 
 console.log("The optimal amount of hours for work is about " + weekly + " so you do not burn yourself out and you get your work done with some personal time to spare.");
+
 
 
 
