@@ -23,8 +23,10 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="70" selection-start="290" selection-end="290" vertical-scroll-proportion="0.1570997">
-              <folding />
+            <state line="5" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.20030816">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -198,14 +200,18 @@
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="70" selection-start="290" selection-end="290" vertical-scroll-proportion="0.1570997">
-          <folding />
+        <state line="5" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.20030816">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
