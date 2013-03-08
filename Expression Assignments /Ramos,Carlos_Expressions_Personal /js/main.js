@@ -13,6 +13,10 @@ console.log("If you add all of that time up it equals to " + total + " and you c
 if (total>=55) {
     console.log( total + " Hours is a lot of time to be taken out of the week and if continues this way there is a possibility you will burn yourself out.")
 }
+else{
+    console.log( total + " Hours is a comfortable amount of hour for the week so if given the opportunity you should study ahead and be prepared for upcoming class work.")
+}
+
 
 
 
