@@ -4,9 +4,9 @@ var work   = parseInt(prompt("How many hours do you spend at work each week?"));
 var total  = class1 + class2 + work;//sum of total hours entered
 const weekly = 40;//constant of 40 hour work week
 
-console.log("Time management is very important at a school like Full Sail. The workload at Full Sail can be very difficult at times.");
-console.log("Every month your schedule will change and every week even day your schedule can change due to last minute unforeseen circumstances.");
-console.log("It is very important to schedule out you time wisely especially if you have a job on top of your classes as I do.");
+console.log("Time management is very important at a school like Full Sail. The workload at Full Sail can be very difficult at times.");//time management at full sail
+console.log("Every month your schedule will change and every week even day your schedule can change due to last minute unforeseen circumstances.");//changing of schedule
+console.log("It is very important to schedule out you time wisely especially if you have a job on top of your classes as I do.");//wisely scheduling hours  
 console.log("I have two classes a month with work and WPF is " + class1 + " hours long. College Math is " + class2 + " hours long as well." );
 console.log("I also work " + work + " hours a week and that interferes with how much time I have to finish homework assignments." );
 console.log("If you add all of that time up it equals to " + total + " and you can see why it is important to manage your time wisely.");
