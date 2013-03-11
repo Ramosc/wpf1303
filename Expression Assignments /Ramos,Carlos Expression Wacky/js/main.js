@@ -1,6 +1,6 @@
-var guy1 = prompt("How much did Mike spend on Crystal?");
-var guy2 = prompt("How much did Peter spend on Crystal?");
-var  phone = prompt("How much did Peter give over the phone?");
+var guy1 = parseInt(prompt("How much did Mike spend on Crystal?"));
+var guy2 = parseInt(prompt("How much did Peter spend on Crystal?"));
+var phone = parseInt(prompt("How much did Peter give over the phone?"));
 
 
 
