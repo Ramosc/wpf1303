@@ -1,4 +1,5 @@
 var guy1 = prompt("How much did Mike spend on Crystal?");
+var guy2 = prompt("How much did Peter spend on Crystal?");
 
 
 
