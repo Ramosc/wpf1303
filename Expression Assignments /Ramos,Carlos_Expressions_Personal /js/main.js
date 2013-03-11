@@ -9,7 +9,7 @@ console.log("Every month your schedule will change and every week even day your 
 console.log("It is very important to schedule out you time wisely especially if you have a job on top of your classes as I do.");//wisely scheduling hours
 console.log("I have two classes a month with work and WPF is " + class1 + " hours long. College Math is " + class2 + " hours long as well." );//class hour enter story
 console.log("I also work " + work + " hours a week and that interferes with how much time I have to finish homework assignments." );//work hours entered
-console.log("If you add all of that time up it equals to " + total + " and you can see why it is important to manage your time wisely.");//total amount of hours 
+console.log("If you add all of that time up it equals to " + total + " and you can see why it is important to manage your time wisely.");//total amount of hours
 
 if (total>=55) { //total entered by user >=55 hours
     console.log( total + " Hours is a lot of time to be taken out of the week and if continues this way there is a possibility you will burn yourself out.");//conditional answer for if
