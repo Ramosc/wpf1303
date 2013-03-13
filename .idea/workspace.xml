@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="529d141f-3069-420e-bcee-d5198e913951" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day5/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expression Assignments /Ramos,Carlos Expression Wacky/js/main.js" afterPath="$PROJECT_DIR$/Expression Assignments /Ramos,Carlos Expression Wacky/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expression Assignments /Ramos,Carlos_Expressions_Personal /js/main.js" afterPath="$PROJECT_DIR$/Expression Assignments /Ramos,Carlos_Expressions_Personal /js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5/main.js" afterPath="$PROJECT_DIR$/Day5/main.js" />
     </list>
     <ignored path="WPF 1303.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +34,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day5/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="539" selection-end="539" vertical-scroll-proportion="0.6676737">
+            <state line="16" column="23" selection-start="563" selection-end="563" vertical-scroll-proportion="0.6283988">
               <folding />
             </state>
           </provider>
@@ -441,7 +437,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day5/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="539" selection-end="539" vertical-scroll-proportion="0.6676737">
+        <state line="16" column="23" selection-start="563" selection-end="563" vertical-scroll-proportion="0.6283988">
           <folding />
         </state>
       </provider>
