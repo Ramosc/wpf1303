@@ -34,7 +34,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day5/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="23" selection-start="563" selection-end="563" vertical-scroll-proportion="0.6283988">
+            <state line="20" column="34" selection-start="649" selection-end="649" vertical-scroll-proportion="0.057401814">
               <folding />
             </state>
           </provider>
@@ -364,7 +364,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 1/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="83" selection-start="973" selection-end="973" vertical-scroll-proportion="0.0" />
+        <state line="26" column="83" selection-start="973" selection-end="973" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 1/index.html">
@@ -396,7 +398,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="43" selection-start="288" selection-end="288" vertical-scroll-proportion="-8.387096" />
+        <state line="10" column="43" selection-start="288" selection-end="288" vertical-scroll-proportion="-8.387096">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/js/notes.js">
@@ -418,7 +422,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 1/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="83" selection-start="973" selection-end="973" vertical-scroll-proportion="0.39156628" />
+        <state line="26" column="83" selection-start="973" selection-end="973" vertical-scroll-proportion="0.39156628">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos,Carlos_Expressions_Personal /js/main.js">
@@ -437,7 +443,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day5/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="23" selection-start="563" selection-end="563" vertical-scroll-proportion="0.6283988">
+        <state line="20" column="34" selection-start="649" selection-end="649" vertical-scroll-proportion="0.057401814">
           <folding />
         </state>
       </provider>
