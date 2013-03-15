@@ -16,23 +16,26 @@ console.log(total);
 var max = 4000000;
 var a = 1;
 var b = 2;
-var c = 0;
+var c = 0;//accumulator
+var evenfib = [];
 var total2 = 0;
 
+
 while (a < max){
-    c = a + b;
-    if ((c % 2 == 0) && (c < max)){
-        total2 += c
+    if (a % 2 == 0){
+        total2 += a;
+        evenfib.push(a);
     }
-}
-a = b + c;
-if ((a % 2 == 0) && (a < max)) {
-    total2 += a;
-}
-b = a + c;
-if ((b % 2 == 0) && (b < max)) {
-    total2 += b;
-    }
+   c = a + b;
+   a = b;
+   b = c;
 }
 console.log(total2);
+
+
+
+
+
+
+
 

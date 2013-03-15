@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="529d141f-3069-420e-bcee-d5198e913951" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/index.html" afterPath="$PROJECT_DIR$/Day 6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/main.js" afterPath="$PROJECT_DIR$/Day 6/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5/projecteuler.js" afterPath="$PROJECT_DIR$/Day5/projecteuler.js" />
     </list>
     <ignored path="WPF 1303.iws" />
@@ -22,24 +25,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day5/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="7" selection-start="72" selection-end="72" vertical-scroll-proportion="-3.3548386">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day5/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="loops.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day5/loops.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,13 +34,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projecteuler.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="projecteuler.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day5/projecteuler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="5" selection-start="537" selection-end="537" vertical-scroll-proportion="0.60365856">
+            <state line="39" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 6/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="-6.709677">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 6/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="9" selection-start="804" selection-end="804" vertical-scroll-proportion="0.8018293">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,7 +88,9 @@
         <option value="$PROJECT_DIR$/Day5/index.html" />
         <option value="$PROJECT_DIR$/Day5/loops.js" />
         <option value="$PROJECT_DIR$/Day5/main.js" />
+        <option value="$PROJECT_DIR$/Day 6/index.html" />
         <option value="$PROJECT_DIR$/Day5/projecteuler.js" />
+        <option value="$PROJECT_DIR$/Day 6/main.js" />
       </list>
     </option>
   </component>
@@ -243,7 +248,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day5" />
+              <option name="myItemId" value="Day 6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -304,12 +309,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="804" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15384616" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15384616" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -377,18 +382,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 1/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="83" selection-start="973" selection-end="973" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 1/Day 2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="30" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0" />
@@ -460,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day5/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="72" selection-end="72" vertical-scroll-proportion="-3.3548386">
+        <state line="11" column="7" selection-start="214" selection-end="214" vertical-scroll-proportion="0.4576">
           <folding />
         </state>
       </provider>
@@ -472,12 +465,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="-6.709677">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day5/projecteuler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="5" selection-start="537" selection-end="537" vertical-scroll-proportion="0.60365856">
+        <state line="39" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="9" selection-start="804" selection-end="804" vertical-scroll-proportion="0.8018293">
+          <folding />
         </state>
       </provider>
     </entry>
