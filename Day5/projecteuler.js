@@ -22,8 +22,17 @@ var total2 = 0;
 while (a < max){
     c = a + b;
     if ((c % 2 == 0) && (c < max)){
-        total2 += c 
+        total2 += c
     }
 }
-
+a = b + c;
+if ((a % 2 == 0) && (a < max)) {
+    total2 += a;
+}
+b = a + c;
+if ((b % 2 == 0) && (b < max)) {
+    total2 += b;
+    }
+}
+console.log(total2);
 
