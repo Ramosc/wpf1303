@@ -29,3 +29,6 @@ for (var firstNumber = 1 ; firstNumber <= 999 ; firstNumber++) {
     }//for secondNumber
 }//for firstNumber
 console.log("The largest palindrome is: " + largestPalindrome);
+
+
+
