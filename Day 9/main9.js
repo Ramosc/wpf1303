@@ -58,6 +58,27 @@ var cheapGroceries = function (groceries) {
             cheap.push(item);
         }//if
         });//for each
-  return cheap;
+  return cheap
 };
-console.log(cheapGroceries(groceries));
+groceries.forEach(function(item, itemNumber) {
+         if (itemNumber % 2 !== 0) {
+             console.log(item["name"]);
+     }
+});
+
+var cheap = groceries.filter(function(item) {
+    return (item["price"] < 1);
+});
+
+console.log("cheap: ", cheap);
+
+var oddGroceries = groceries.filter(function(item, itemNumber) {
+    return (itemNumber % 2 !== 0);
+});
+console.log("odd: ", oddGroceries);
+var oddGroceriesNames = oddGroceries.map(function(item){
+    return (item.name);
+});
+console.log("odd: ", oddGroceriesNames);
+//console.log(cheapGroceries(groceries));
+
