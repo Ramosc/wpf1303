@@ -38,6 +38,7 @@ console.log("The factors of " + 2520 + " are:", factorsOf2520);
 //      (which can be as simple or complex as you need them to be)
 //4. Functions MAY return a value that takes the place of where the function was called
 //      a. We call functions with parentheses: ()
+//      b. When we return the function stops there
 //5. Function provide ENCAPSULATION, which means:
 //      the code outside doesn't care about the code inside
 //      (we can change the inside without worrying if the outside will break)
@@ -48,6 +49,5 @@ console.log("The factors of " + 2520 + " are:", factorsOf2520);
 //      b.ONE thing is easier to optimize if it needs to go faster, be better, etc
 //      c.One thing is easier to reuse in other places
 //      d.Functions_should_ take up one screen and no more (rule of thumb)
-
 
 
