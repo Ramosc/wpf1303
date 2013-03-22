@@ -6,10 +6,10 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 8/euler1.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 8/not-euler.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 9/index9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 9/main9.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/problem4.js" afterPath="$PROJECT_DIR$/Day 6/problem4.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/index.html" afterPath="$PROJECT_DIR$/Day 8/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/main.js" afterPath="$PROJECT_DIR$/Day 8/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9/main9.js" afterPath="$PROJECT_DIR$/Day 9/main9.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5/projecteuler.js" afterPath="$PROJECT_DIR$/Day5/projecteuler.js" />
     </list>
     <ignored path="WPF 1303.iws" />
@@ -42,7 +42,16 @@
       <file leaf-file-name="main9.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 9/main9.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="432" selection-end="616" vertical-scroll-proportion="-0.1097561">
+            <state line="58" column="13" selection-start="2113" selection-end="2113" vertical-scroll-proportion="0.68292683">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loops.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day5/loops.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="0" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -209,6 +218,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF 1303" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF 1303" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -369,13 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day5/loops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 6/problem4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="63" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.64329267">
@@ -450,9 +466,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day5/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 9/main9.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="432" selection-end="616" vertical-scroll-proportion="-0.1097561">
+        <state line="58" column="13" selection-start="2113" selection-end="2113" vertical-scroll-proportion="0.68292683">
           <folding />
         </state>
       </provider>

@@ -53,12 +53,11 @@ var groceries = [
 
 var cheapGroceries = function (groceries) {
     var cheap = [];
-    for (var itemNumber = 0; itemNumber < groceries.length; itemNumber++) {
-        var item = groceries[itemNumber];
-        if (item.price < 1){
-            cheap.push(item)
-        }
-    }
+    groceries.forEach(function(item){
+        if (item.price < 1) {
+            cheap.push(item);
+        }//if
+        });//for each
   return cheap;
 };
 console.log(cheapGroceries(groceries));
