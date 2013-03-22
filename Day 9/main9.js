@@ -41,10 +41,24 @@ var sortGenerator = function (keyName) {
 var groceries = [
     { "name": "eggs",   "price": 2.50 , "aisle" : 3 },
     { "name": "milk",   "price": 4.00,  "aisle" : 1 },
-    { "name": "butter", "price": 0.99,  "aisle" : 12}
+    { "name": "butter", "price": 0.99,  "aisle" : 12},
+    { "name": "gumball", "price": 0.99,  "aisle" : 12},
+    { "name": "fireball", "price": 0.99,  "aisle" : 12},
+    { "name": "ringpop", "price": 0.99,  "aisle" : 12}
 ];
-console.log(groceries);
+//console.log(groceries);
 //console.log("sorted groceries by aisle: ", groceries.sort(sortByAisle));
-console.log("sorted groceries by name: ", groceries.sort(sortGenerator("name")));
-console.log("sorted groceries by price: ", groceries.sort(sortGenerator("price")));
+//console.log("sorted groceries by name: ", groceries.sort(sortGenerator("name")));
+//console.log("sorted groceries by price: ", groceries.sort(sortGenerator("price")));
 
+var cheapGroceries = function (groceries) {
+    var cheap = [];
+    for (var itemNumber = 0; itemNumber < groceries.length; itemNumber++) {
+        var item = groceries[itemNumber];
+        if (item.price < 1){
+            cheap.push(item)
+        }
+    }
+  return cheap;
+};
+console.log(cheapGroceries(groceries));
