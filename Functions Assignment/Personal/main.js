@@ -12,10 +12,8 @@ var placesToGo = [{
 }];
 var spendingLimit = parseInt(prompt("How much do you want to spend during on the date?"));
 var date = function(options) {
+    var choices = 0;
     return options * 2
 };
 
-var bestDeal = spendingLimit(placesToGo);
-while (spendingLimit < bestDeal) {
 
-}
