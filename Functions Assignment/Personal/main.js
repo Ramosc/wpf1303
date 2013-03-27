@@ -1,9 +1,11 @@
 console.log("Functions Personal");
 
-var placesToGo = [{//1st object in loop
+var placesToGo = [
+    {//1st object in array
     "name" : "Chilis",
     "price" : 20
-},{
+    },
+    {//2nd object in array
     "name" : "Man Of Steel",
     "price"  : 15
 }];
