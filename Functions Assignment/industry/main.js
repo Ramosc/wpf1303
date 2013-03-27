@@ -9,7 +9,7 @@ var learning = function(price) {// begin function
         var answer = "Do I need more books? " + ((amountOfBooks) ? " Yes I need more books!" : "No I have books");// ternary
         amountOfBooks++;// add one to continue loop
         console.log(answer);//console log answer
-    }
+    }//end loop
     return price * amountOfBooks;
 };
 var total = learning(10);
