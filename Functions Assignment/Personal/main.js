@@ -11,3 +11,6 @@ var placesToGo = [{
     "price" : 30
 }];
 var spendingLimit = parseInt(prompt("How much do you want to spend during on the date?"));
+var date = function(options) {
+    return options * 2
+};
