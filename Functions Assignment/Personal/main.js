@@ -1,6 +1,6 @@
 console.log("Functions Personal");
 
-var placesToGo = [{
+var placesToGo = [{//1st object in loop
     "name" : "Chilis",
     "price" : 20
 },{
