@@ -1,19 +1,22 @@
 console.log("Functions Personal");
-
 var placesToGo = [{
     "name" : "Chilis",
     "price" : 20
 },{
     "name" : "Man Of Steel",
     "price"  : 15
-},{
-    "name" : "Cuba Libre",
-    "price" : 30
 }];
-var spendingLimit = parseInt(prompt("How much do you want to spend during on the date?"));
+
 var date = function(options) {
-    var choices = 0;
-    return options * 2
+    var dateTotal = 0;
+    options.forEach(function(options) {
+        dateTotal += options["price"];
+    });
+    return dateTotal * 2 / options.length;
 };
+
+var dateAvg = Math.round(date(placesToGo));
+console.log(dateAvg);
+
 
 
