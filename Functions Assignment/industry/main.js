@@ -1,7 +1,7 @@
 console.log("Industry Functions");
 
 
-var booksNeeded = 5;
+var booksNeeded = 5;//books needed / ordered
 
 var learning = function(price) {
     var amountOfBooks = 0;
