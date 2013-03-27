@@ -13,9 +13,9 @@ var placesToGo = [
 var date = function(options) {//begin function
     var dateTotal = 0; // var for loop
     options.forEach(function(options) {// start forEach loop
-        dateTotal += options["price"];
+        dateTotal += options["price"];//add prices together for date total
     });// end forEach loop
-    return dateTotal * 2 / options.length;
+    return dateTotal * 2 / options.length;// multiply for 2 people and divide objects to get average
 };//end function
 
 var dateAvg = Math.round(date(placesToGo));
