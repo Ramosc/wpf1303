@@ -10,13 +10,13 @@ var placesToGo = [
     "price"  : 15
 }];
 
-var date = function(options) {//begin function 
+var date = function(options) {//begin function
     var dateTotal = 0;
     options.forEach(function(options) {
         dateTotal += options["price"];
     });
     return dateTotal * 2 / options.length;
-};
+};//end function 
 
 var dateAvg = Math.round(date(placesToGo));
 console.log("If we go to dinner and a movie the price  each of use will have to pay is " + dateAvg);
