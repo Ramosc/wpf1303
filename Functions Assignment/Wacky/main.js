@@ -1,7 +1,7 @@
 console.log("Function Wacky");
 
 var gym = 400;// gym calories
-var entree = 750;
+var entree = 750;//entree calories 
 var soda = 200;
 var dailyGoal = 500;
 
