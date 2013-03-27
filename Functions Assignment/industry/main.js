@@ -8,9 +8,10 @@ var learning = function(price) {
     while (amountOfBooks < booksNeeded) {
         var answer = "Do I need more books? " + ((amountOfBooks) ? " Yes I need more books!" : "No I have books");
         amountOfBooks++;
+        
         console.log(answer);
     }
     return price * amountOfBooks;
 };
-var total = learning(5);
-console.log(total);
+var total = learning(10);
+console.log("The price for 5 book to learn web development will be " +  total);
