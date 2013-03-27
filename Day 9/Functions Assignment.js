@@ -14,7 +14,8 @@ var date = function(options) {
 };
 
 var bestDeal = spendingLimit(placesToGo);
-    while (spendingLimit < bestDeal) {
+
+while (spendingLimit < bestDeal) {
 
 }
 console.log("We should go to" + placesToGo.name + " because it is the best deal");
