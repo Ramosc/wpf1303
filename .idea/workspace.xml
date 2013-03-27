@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="529d141f-3069-420e-bcee-d5198e913951" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions Assignment/Personal/main.js" afterPath="$PROJECT_DIR$/Functions Assignment/Personal/main.js" />
     </list>
     <ignored path="WPF 1303.iws" />
@@ -35,7 +34,7 @@
       <file leaf-file-name="Functions Assignment.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 9/Functions Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="3" selection-start="113" selection-end="162" vertical-scroll-proportion="0.0">
+            <state line="10" column="90" selection-start="163" selection-end="253" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -62,7 +61,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions Assignment/Personal/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="3" selection-start="198" selection-end="198" vertical-scroll-proportion="0.43333334">
+            <state line="12" column="90" selection-start="289" selection-end="289" vertical-scroll-proportion="0.47272727">
               <folding />
             </state>
           </provider>
@@ -583,14 +582,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 9/Functions Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="3" selection-start="113" selection-end="162" vertical-scroll-proportion="0.0">
+        <state line="10" column="90" selection-start="163" selection-end="253" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions Assignment/Personal/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="3" selection-start="198" selection-end="198" vertical-scroll-proportion="0.43333334">
+        <state line="12" column="90" selection-start="289" selection-end="289" vertical-scroll-proportion="0.47272727">
           <folding />
         </state>
       </provider>
