@@ -9,7 +9,7 @@ console.log("The article I used for this project was from Smashing Magazine abou
 console.log("It discusses what coding style is and defines it as being a personal style of how your code looks");//personal styles
 console.log("It also states that this can be very difficult in a team atmosphere because of all the different styles");//team projects
 console.log("It has a sample of code that uses comments to help illustrate how these can help while in a team");//code shown
-console.log("While everyone has a personal coding style it is possible to work in teams and have a great project");
-console.log("If there are " + teams + " teams with " + teamMembers + " team members using " + personalStyles + " different editors being used");
-console.log("that can cause confusion because " + average + " different editors are being used but this can be resolved with great communication");
-console.log("If the team members find common ground and have goo communication it can become a great project");
+console.log("While everyone has a personal coding style it is possible to work in teams and have a great project");//making great project
+console.log("If there are " + teams + " teams with " + teamMembers + " team members using " + personalStyles + " different editors being used");//finding out numbers
+console.log("that can cause confusion because " + average + " different editors are being used but this can be resolved with great communication");//finding average
+console.log("If the team members find common ground and have goo communication it can become a great project");//end story
