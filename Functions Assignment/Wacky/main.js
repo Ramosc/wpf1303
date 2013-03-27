@@ -8,7 +8,7 @@ var dailyIntake = 700;
 var calorieCount = function(entree, soda, gym) {// begin function with three parameters
     var calorieTotal = entree + soda; // add parameters
     var dailyCalorie = calorieTotal - gym; // subtract gym calories
-    return dailyCalorie;
+    return dailyCalorie; // return total generated
 };// end of function
 var number = calorieCount(entree, soda, gym);
 console.log("I have taken in " + number + " calories after my gym session");
