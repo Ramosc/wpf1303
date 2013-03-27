@@ -11,7 +11,7 @@ var calorieCount = function(entree, soda, gym) {// begin function with three par
     return dailyCalorie; // return total generated
 };// end of function
 var number = calorieCount(entree, soda, gym);//calling all calories
-console.log("I have taken in " + number + " calories after my gym session");
+console.log("I have taken in " + number + " calories after my gym session");// console out calories taken in
 
 if (number < dailyIntake) {
     console.log("You need to continue working out to reach your goal.");
