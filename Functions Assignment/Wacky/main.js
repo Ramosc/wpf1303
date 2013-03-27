@@ -1,8 +1,8 @@
 console.log("Function Wacky");
 
 var gym = 400;// gym calories
-var entree = 750;//entree calories 
-var soda = 200;
+var entree = 750;//entree calories
+var soda = 200;//soda calories
 var dailyGoal = 500;
 
 var calorieCount = function(entree, soda, gym) {// begin function with three parameters
