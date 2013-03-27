@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="529d141f-3069-420e-bcee-d5198e913951" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 11/day 11.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 11/day11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pings/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pings/pings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9/Functions Assignment.js" afterPath="$PROJECT_DIR$/Day 9/Functions Assignment.js" />
     </list>
     <ignored path="WPF 1303.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,37 +42,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day11.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 11/day11.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="26" selection-start="97" selection-end="97" vertical-scroll-proportion="-5.032258">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pings/index.html">
+        <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="140" selection-end="167" vertical-scroll-proportion="-6.709677">
+            <state line="3" column="30" selection-start="60" selection-end="60" vertical-scroll-proportion="-2.516129">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pings.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pings/pings.js">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="50" selection-start="1078" selection-end="1078" vertical-scroll-proportion="0.29090908">
+            <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.07878788">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day10.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 10/Day10.js">
+      <file leaf-file-name="day 11.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 11/day 11.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="5" selection-start="1029" selection-end="1029" vertical-scroll-proportion="0.0">
+            <state line="47" column="43" selection-start="1710" selection-end="1710" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -94,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Day 6/problem4.js" />
-        <option value="$PROJECT_DIR$/Day5/projecteuler.js" />
         <option value="$PROJECT_DIR$/Day 8/euler1.js" />
         <option value="$PROJECT_DIR$/Day 8/main.js" />
         <option value="$PROJECT_DIR$/Day 8/not-euler.js" />
@@ -110,6 +96,8 @@
         <option value="$PROJECT_DIR$/pings/index.html" />
         <option value="$PROJECT_DIR$/Day 8/Functions Worksheet.js" />
         <option value="$PROJECT_DIR$/pings/pings.js" />
+        <option value="$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/index.html" />
+        <option value="$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/main.js" />
       </list>
     </option>
   </component>
@@ -253,6 +241,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Expression Assignments " />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF 1303" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF 1303" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Expression Assignments " />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ramos, Carlos Expressions Industry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -430,12 +436,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="808" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1559633" sideWeight="0.6002928" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1559633" sideWeight="0.6002928" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -505,31 +511,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 9/main9.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="39" selection-start="2277" selection-end="2277" vertical-scroll-proportion="2.5365853" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 9/index9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="15" selection-start="91" selection-end="91" vertical-scroll-proportion="0.2912" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 8/not-euler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="6" selection-start="271" selection-end="271" vertical-scroll-proportion="0.47560975" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 1/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.04043546" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 10/Day10.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="19" selection-start="97" selection-end="97" vertical-scroll-proportion="-5.870968">
@@ -558,16 +539,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 10/Day10.js">
+    <entry file="file://$PROJECT_DIR$/Day 8/Functions Worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="5" selection-start="1029" selection-end="1029" vertical-scroll-proportion="0.0">
+        <state line="18" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 9/Functions Assignment.js">
+    <entry file="file://$PROJECT_DIR$/pings/pings.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="39" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+        <state line="36" column="50" selection-start="1078" selection-end="1078" vertical-scroll-proportion="0.29090908">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 9/index9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="15" selection-start="91" selection-end="91" vertical-scroll-proportion="0.28934819">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pings/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="140" selection-end="167" vertical-scroll-proportion="0.33068362">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 11/day11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="97" selection-end="97" vertical-scroll-proportion="0.24801272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos,Carlos Expression Wacky/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 9/main9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="39" selection-start="2277" selection-end="2277" vertical-scroll-proportion="2.521212">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Day10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="5" selection-start="1029" selection-end="1029" vertical-scroll-proportion="0.56666666">
           <folding />
         </state>
       </provider>
@@ -579,30 +602,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 11/day11.html">
+    <entry file="file://$PROJECT_DIR$/Day 9/Functions Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="26" selection-start="97" selection-end="97" vertical-scroll-proportion="-5.032258">
+        <state line="15" column="39" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pings/index.html">
+    <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="140" selection-end="167" vertical-scroll-proportion="-6.709677">
+        <state line="3" column="30" selection-start="60" selection-end="60" vertical-scroll-proportion="-2.516129">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 8/Functions Worksheet.js">
+    <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pings/pings.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="50" selection-start="1078" selection-end="1078" vertical-scroll-proportion="0.29090908">
+        <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.07878788">
           <folding />
         </state>
       </provider>
