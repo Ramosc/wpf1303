@@ -15,7 +15,7 @@ console.log("I have taken in " + number + " calories after my gym session");// c
 if (number < dailyGoal) {//begin if statement
     console.log("You need to continue working out to reach your goal.");// console log out answer
 } else {//begin else
-    console.log("Great job you have reached your goal, you burned " + number + " calories today.")
+    console.log("Great job you have reached your goal, you burned " + number + " calories today.");//console log out else answer
 }
 
 
