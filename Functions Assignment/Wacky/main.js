@@ -14,9 +14,10 @@ var number = calorieCount(entree, soda, gym);//calling all calories
 console.log("I have taken in " + number + " calories after my gym session");// console out calories taken in
 if (number < dailyGoal) {//begin if statement
     console.log("You need to continue working out to reach your goal.");// console log out answer
-} else {//begin else
+}//end if
+else {//begin else
     console.log("Great job you have reached your goal, you burned " + number + " calories today.");//console log out else answer
-}//end else 
+}//end else
 
 
 
