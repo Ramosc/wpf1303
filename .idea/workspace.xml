@@ -31,15 +31,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 8/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="industry.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions Assignment/industry/industry.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,7 +43,16 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions Assignment/industry/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="33" selection-start="144" selection-end="144" vertical-scroll-proportion="0.23636363">
+            <state line="16" column="0" selection-start="418" selection-end="418" vertical-scroll-proportion="0.6429675">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loops.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day5/loops.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -293,6 +293,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF 1303" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF 1303" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -428,13 +442,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="122" selection-start="1575" selection-end="1575" vertical-scroll-proportion="0.5625966">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="30" selection-start="60" selection-end="60" vertical-scroll-proportion="0.12400636">
@@ -512,16 +519,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions Assignment/industry/industry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="58" selection-end="58" vertical-scroll-proportion="-2.516129">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 8/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.59090906">
           <folding />
         </state>
       </provider>
@@ -533,9 +533,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions Assignment/industry/industry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="28" selection-start="58" selection-end="58" vertical-scroll-proportion="-2.516129">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions Assignment/industry/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="33" selection-start="144" selection-end="144" vertical-scroll-proportion="0.23636363">
+        <state line="16" column="0" selection-start="418" selection-end="418" vertical-scroll-proportion="0.6429675">
           <folding />
         </state>
       </provider>
