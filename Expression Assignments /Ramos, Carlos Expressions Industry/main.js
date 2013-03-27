@@ -10,5 +10,6 @@ console.log("It discusses what coding style is and defines it as being a persona
 console.log("It also states that this can be very difficult in a team atmosphere because of all the different styles");
 console.log("It has a sample of code that uses comments to help illustrate how these can help while in a team");
 console.log("While everyone has a personal coding style it is possible to work in teams and have a great project");
-console.log("If there are " + teams + " with " + teamMembers + " using " + personalStyles + " editors being used");
-console.log("that can cause confusion because " + average + " editors are being used but this can be resolved with great communication");
+console.log("If there are " + teams + " teams with " + teamMembers + " team members using " + personalStyles + " different editors being used");
+console.log("that can cause confusion because " + average + " different editors are being used but this can be resolved with great communication");
+console.log("If the team members find common ground and have goo communication it can become a great project");
