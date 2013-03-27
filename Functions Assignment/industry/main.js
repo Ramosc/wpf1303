@@ -7,7 +7,7 @@ var learning = function(price) {// begin function
     var amountOfBooks = 0;//book amount
     while (amountOfBooks < booksNeeded) {//while loop begin
         var answer = "Do I need more books? " + ((amountOfBooks) ? " Yes I need more books!" : "No I have books");// ternary
-        amountOfBooks++;
+        amountOfBooks++;// add one to continue loop
         console.log(answer);
     }
     return price * amountOfBooks;
