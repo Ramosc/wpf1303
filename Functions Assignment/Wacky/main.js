@@ -9,7 +9,7 @@ var calorieCount = function(entree, soda, gym) {// begin function with three par
     var calorieTotal = entree + soda;
     var dailyCalorie = calorieTotal - gym;
     return dailyCalorie;
-};
+};// end of function
 var number = calorieCount(entree, soda, gym);
 console.log("I have taken in " + number + " calories after my gym session");
 
