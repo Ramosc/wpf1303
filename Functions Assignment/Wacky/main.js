@@ -1,4 +1,4 @@
-console.log("Function Wacky");//test 
+console.log("Function Wacky");//test
 
 var gym = 400;// gym calories
 var entree = 750;//entree calories
