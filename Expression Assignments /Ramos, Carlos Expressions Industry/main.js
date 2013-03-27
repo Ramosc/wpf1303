@@ -2,7 +2,7 @@ console.log("Expression Industry");
 var teamMembers = parseInt(prompt("How many people are on your team?"));
 var personalStyles = parseInt(prompt("How many different editor's do the team member's use?"));
 var teams = 2;
-
+var average = teamMembers * personalStyles * teams / teamMembers;
 
 
 console.log("The article I used for this project was from Smashing Magazine about Why Coding Styles Matters.");
