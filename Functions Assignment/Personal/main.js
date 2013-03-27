@@ -6,4 +6,7 @@ var placesToGo = [{
 },{
     "name" : "Man Of Steel",
     "price"  : 15
-},
+},{
+    "name" : "Cuba Libre",
+    "price" : 30
+}];
