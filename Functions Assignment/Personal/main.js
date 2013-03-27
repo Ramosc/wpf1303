@@ -10,7 +10,7 @@ var placesToGo = [
     "price"  : 15
 }];
 
-var date = function(options) {
+var date = function(options) {//begin function 
     var dateTotal = 0;
     options.forEach(function(options) {
         dateTotal += options["price"];
