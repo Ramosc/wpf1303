@@ -1,5 +1,5 @@
 console.log("Expression Industry");
-
+var personalStyle = 0;
 
 
 
