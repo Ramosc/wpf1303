@@ -6,7 +6,7 @@ var booksNeeded = 5;//books needed / ordered
 var learning = function(price) {// begin function
     var amountOfBooks = 0;//book amount
     while (amountOfBooks < booksNeeded) {//while loop begin
-        var answer = "Do I need more books? " + ((amountOfBooks) ? " Yes I need more books!" : "No I have books");
+        var answer = "Do I need more books? " + ((amountOfBooks) ? " Yes I need more books!" : "No I have books");// ternary
         amountOfBooks++;
         console.log(answer);
     }
