@@ -16,3 +16,6 @@ var date = function(options) {
 };
 
 var bestDeal = spendingLimit(placesToGo);
+while (spendingLimit < bestDeal) {
+
+}
