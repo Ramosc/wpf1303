@@ -14,7 +14,7 @@ var date = function(options) {//begin function
     var dateTotal = 0; // var for loop
     options.forEach(function(options) {// start forEach loop
         dateTotal += options["price"];
-    });
+    });// end forEach loop
     return dateTotal * 2 / options.length;
 };//end function
 
