@@ -18,8 +18,8 @@ var date = function(options) {//begin function
     return dateTotal * 2 / options.length;// multiply for 2 people and divide objects to get average
 };//end function
 
-var dateAvg = Math.round(date(placesToGo));
-console.log("If we go to dinner and a movie the price  each of use will have to pay is " + dateAvg);
+var dateAvg = Math.round(date(placesToGo));// round to get even number
+console.log("If we go to dinner and a movie the price  each of use will have to pay is " + dateAvg);// console log out
 
 
 
