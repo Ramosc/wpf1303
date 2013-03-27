@@ -1,6 +1,6 @@
 console.log("Expression Industry");
-var personalStyle = 0;
 var teamMembers = parseInt(prompt("How many people are on your team?"));
+var personalStyles = parseInt(prompt("How many different editor's do the team member's use?"));
 
 
 

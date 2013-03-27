@@ -52,7 +52,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="72" selection-start="131" selection-end="131" vertical-scroll-proportion="0.08037094">
+            <state line="3" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.120556414">
               <folding />
             </state>
           </provider>
@@ -649,13 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos,Carlos Expression Wacky/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="30" selection-start="60" selection-end="60" vertical-scroll-proportion="-2.516129">
@@ -663,9 +656,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos,Carlos Expression Wacky/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Expression Assignments /Ramos, Carlos Expressions Industry/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="72" selection-start="131" selection-end="131" vertical-scroll-proportion="0.08037094">
+        <state line="3" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.120556414">
           <folding />
         </state>
       </provider>
