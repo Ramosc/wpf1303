@@ -11,7 +11,7 @@ var learning = function(price) {// begin function
         console.log(answer);//console log answer
     }//end loop
     return price * amountOfBooks;//return to get total
-};//end function 
-var total = learning(10);
+};//end function
+var total = learning(10);//var for total
 console.log("After " + booksNeeded + " trips im glad you finally enough books.");
 console.log("The price for " + booksNeeded  + " book to learn web development will be " +  total);
