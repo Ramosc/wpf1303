@@ -5,7 +5,7 @@ var entree = 750;
 var soda = 200;
 var dailyIntake = 700;
 
-var calorieCount = function(entree, soda, gym) {
+var calorieCount = function(entree, soda, gym) {// begin function with three parameters
     var calorieTotal = entree + soda;
     var dailyCalorie = calorieTotal - gym;
     return dailyCalorie;
