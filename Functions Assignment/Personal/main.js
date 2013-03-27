@@ -1,4 +1,5 @@
 console.log("Functions Personal");
+
 var placesToGo = [{
     "name" : "Chilis",
     "price" : 20
@@ -16,7 +17,7 @@ var date = function(options) {
 };
 
 var dateAvg = Math.round(date(placesToGo));
-console.log(dateAvg);
+console.log("If we go to dinner and a movie the price  each of use will have to pay is " + dateAvg);
 
 
 
