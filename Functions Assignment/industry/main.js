@@ -14,4 +14,4 @@ var learning = function(price) {// begin function
 };//end function
 var total = learning(10);//var for total
 console.log("After " + booksNeeded + " trips im glad you finally enough books.");//log out books ordered
-console.log("The price for " + booksNeeded  + " book to learn web development will be " +  total);
+console.log("The price for " + booksNeeded  + " book to learn web development will be " +  total);//log out price for how many
